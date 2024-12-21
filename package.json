@@ -1,0 +1,20 @@
+{
+  "name": "animix-bot",
+  "author": "@zlkcyber",
+  "description": "animix auto complete missions, auto gatha pets, auto merge",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "chalk": "^5.4.0",
+    "ethers": "^6.13.4",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {}
+}
